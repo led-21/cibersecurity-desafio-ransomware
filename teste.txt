@@ -1,1 +1,0 @@
-A criptografia é o processo de transformar dados legíveis em formato simples (não criptografados) em dados cifrados (criptografados). Essa transformação é realizada por meio de algoritmos e chaves de segurança. Os dados criptografados só podem ser lidos por pessoas autorizadas que possuem a chave correta, o que proporciona maior segurança.
